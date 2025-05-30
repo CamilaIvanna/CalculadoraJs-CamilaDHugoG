@@ -26,7 +26,7 @@ Una calculadora simple y responsiva desarrollada con **HTML**, **CSS** y **JavaS
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/CamilaIvanna/CalculadoraJs-CamilaDHugoG
+   git clone https://github.com/CamilaIvanna/CalculadoraJs-CamilaDHugoG
 
 ## Autores
 
